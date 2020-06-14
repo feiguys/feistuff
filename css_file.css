@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 
-html,body{
+body{
     width: 100%;
     height: 100%;
     margin: 0;
-    padding-left: 15%;
-    padding-right: 15%;
     background-color: #190061;
 }
 
@@ -13,3 +11,48 @@ html,body{
     font-family: 'Press Start 2P', cursive;
     box-sizing: border-box;
 }
+  
+  .header {
+    background-color: #0c0032;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  #navbar {
+    overflow: hidden;
+    background-color: #240090;
+  }
+  
+  #navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  #navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  #navbar a.active {
+    background-color: #3500D3;
+    color: white;
+  }
+  
+  .content {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
