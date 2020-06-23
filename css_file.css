@@ -15,18 +15,16 @@ body{
     background-color: #0c0032;
     padding: 30px;
     text-align: center;
+    font-size: 3rem;
   }
   
   #navbar {
     background-color: #240090;
-    bottom: 0;
-    position: fixed;
     width: 100%;
   }
   
   #navbar a {
-    float: left;
-    display: block;
+    display: inline-block;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -46,10 +44,6 @@ body{
 
   .container-fluid {
     padding: 30px;
-  }
-  
-  .content {
-    padding: 16px;
   }
   
   .sticky {
@@ -93,4 +87,13 @@ body{
     .main    { order: 2; }
     .aside-2 { order: 3; }
     .footer  { order: 4; }
+  }
+
+  @viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+  }
+
+  @-ms-viewport {
+    width: device-width ;
   }
