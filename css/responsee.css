@@ -426,7 +426,6 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   padding:0.625rem;
 }
 .margin,.margin2x {display: block;}
-.margin {margin:0 -0.625rem;}
 .margin2x {margin:0 -1.25rem;}
 .grid.margin {
   display: grid;
