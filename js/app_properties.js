@@ -6,7 +6,7 @@
             backgroundColor: '#eeeeee',  // default: '#fff'
             buttonColorDark: '#100f2c',  // default: '#100f2c'
             buttonColorLight: '#eeeeee', // default: '#fff'
-            saveInCookies: false, // default: true,
+            saveInCookies: true, // default: true,
             label: '🌓', // default: ''
             autoMatchOsTheme: true // default: true
          }
