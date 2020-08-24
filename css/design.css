@@ -5,3 +5,9 @@
 .feigray {
     background: #D2D2D2!important;
 }
+
+.emoji {
+    font-size: 32px;
+    vertical-align: middle;
+    line-height: 2
+}
