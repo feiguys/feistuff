@@ -22,7 +22,7 @@ var arrLang = {
         'point16': '11. Physical factors in environmet I.',
         'point17': '12. Physical factors in environment II.',
         'course content and reading': 'Course contents and Recomended Reading',
-        'materials': 'Study Materials'
+        'exam': 'Exams'
     },
     'SVK': {
         'home': 'Domov',
@@ -47,6 +47,6 @@ var arrLang = {
         'point16': '11. Vplyvy vybraných fyzikálnych faktorov na životné prostredie I.',
         'point17': '12. Vplyvy vybraných fyzikálnych faktorov na životné prostredie II.',
         'course content and reading': 'Stručná osnova a Literatúra',
-        'materials': 'Študijné Materiály'
+        'exam': 'Skúšky'
     }
 };
