@@ -1,0 +1,40 @@
+var arrLang = {
+    'ENG': {
+        'home': 'Home',
+        'language': 'Language',
+        'conditions': 'Conditions for passing the course',
+        'point0': 'Final grade will be based on continuous assessment of students.',
+        'point1': 'which will comprise 1 oral presentation of a specialist topic earning 45 points,a report earning 35 points, home assignments earning 10 points and overall activity during the semester earning 10 points.',
+        'point2': 'Aims and objectives:',
+        'point3': "To develop skills and strategies in oral and written communication and so enhance students' professionalism and employability.",
+        'point4': 'After having completed the course, students should be able:',
+        'point5': '•to communicate in speaking and writing competently and effectively in various situations,',
+        'point6': '•differentiate formal, informal and neutral communication styles,',
+        'point7': '•use different communication strategies,',
+        'point8': '•communicate appropriately in multicultural setting',
+        'point9': '•use different genres of written communication, e.g. application, formal letter, email message, project etc.,',
+        'point10': '• write cv and covering letter professionally.',
+        'point11': "Definition of communication, types and components of communication, different styles and strategies of communication, verbal and non-verbal communication, spoken and written communication, diplomacy, cross-cultural communication, active listening, criticism vs feedback, professional telephoning, conflict solution, communication in a company, official correspondence, specifics of electronic written communication, Europass professional CV, covering letter, typical students' writing mistakes, writing a specialist text and abstract-structure and layout, copyright, plagiarism, and citations.",
+        'course content and reading': 'Course contents and Recomended Reading',
+        'materials': 'Study Materials'
+    },
+    'SVK': {
+        'home': 'Domov',
+        'language': 'Jazyk',
+        'conditions': 'Podmienky na absolvovanie predmetu',
+        'point0': 'Predmet bude hodnotený priebežne a do celkového hodnotenia bude, okrem výsledku skúšky, zahrnuté hodnotenie práce študenta počas semestra.',
+        'point1': 'Toto bude zahŕňať 1 prezentáciu vybranej odbornej témy za 45 bodov, referát za 35 bodov, domáce zadania za 10 bodov a aktivita počas semestra 10 bodov.',
+        'point2': 'Cieľ predmetu:',
+        'point3': 'Rozvíjať zručnosti a stratégie ústnej a písomnej komunikácie vedúcej k zvýšeniu profesionality absolventov a ich lepšiemu uplatneniu sa na trhu práce.',
+        'point4': 'Po absolvovaní predmetu by študent mal by schopný:',
+        'point5': '- kompetentne ústne a písomne komunikovať v rôznych situáciách',
+        'point6': '- rozlišovať medzi formálnym, neformálnym a neutrálnym štýlom komunikácie',
+        'point7': '- uplatňovať rôzne stratégie komunikácie',
+        'point8': '- vhodne komunikovať v multikultúrnom prostredí',
+        'point9': '- uplatňovať rôzne žánre písomnej komunikácie (napr. žiadosť, oficiálny list, emailovú správu, projekt, a pod.)',
+        'point10': '- správne a výstižne napísať profesionálny životopis a motivačný list',
+        'point11': 'Definovanie pojmu komunikácia, typy a zložky komunikácie, rôzne štýly a stratégie komunikácie, verbálna a neverbálna komunikácia, ústna a písomná komunikácia, diplomacia, komunikácia naprieč kultúrami, aktívne počúvanie, kritika versus spätná väzba, profesionálne telefonovanie, riešenie konfliktu, komunikácia v podniku, oficiálna korešpondencia, špecifiká elektronickej písomnej komunikácie, štruktúrovaný životopis EUropass, motivačný list, typické chyby študentov v písomnom prejave, štruktúra, úprava, písanie odborného textu, abstraktu, autorské právo, plagiarizmus a spôsoby citovania.',
+        'course content and reading': 'Stručná osnova a Literatúra',
+        'materials': 'Študijné Materiály'
+    }
+};
